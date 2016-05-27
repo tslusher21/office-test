@@ -1,3 +1,4 @@
 This is a test document for the porpoise (woops! Lol) of implement docx2txt in github (and eventually xls2txt).
 No luck on round 1. Adding the diff to gitconfig...sooooo...maybe? NOOOOPE
 HOLY CRAP I THINK IT WORKED YOU GUYS!!
+Trying this in conjunction with something else now.
